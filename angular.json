@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ultriaTest"
+    }
+  },
+  "defaultProject": "ultriaTest",
+  "cli": {
+    "analytics": "5be4344c-165c-4fbf-88a4-bb4131495c62"
+  }
 }
